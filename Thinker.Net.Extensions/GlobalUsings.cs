@@ -1,0 +1,22 @@
+﻿global using Autofac;
+global using SqlSugar;
+global using AutoMapper;
+global using System.Text;
+global using System.Reflection;
+global using Thinker.Net.Service;
+global using Thinker.Net.IService;
+global using System.ComponentModel;
+global using Microsoft.OpenApi.Any;
+global using Thinker.Net.Common.Core;
+global using Thinker.Net.Model.Entity;
+global using Microsoft.OpenApi.Models;
+global using Thinker.Net.Model.Dto.Menu;
+global using Thinker.Net.Common.Options;
+global using Thinker.Net.Model.Dto.Role;
+global using Thinker.Net.Model.Dto.User;
+global using Microsoft.IdentityModel.Tokens;
+global using Swashbuckle.AspNetCore.SwaggerGen;
+global using Thinker.Net.Repository.BaseRepository;
+global using Microsoft.Extensions.DependencyInjection;
+global using Microsoft.AspNetCore.Authentication.JwtBearer;
+

@@ -1,0 +1,15 @@
+﻿global using Autofac;
+global using Microsoft.Extensions.DependencyInjection;
+global using Microsoft.Extensions.Options;
+global using System.Reflection;
+global using Microsoft.AspNetCore.Hosting;
+global using Microsoft.AspNetCore.Http;
+global using Microsoft.Extensions.Configuration;
+global using Microsoft.Extensions.Hosting;
+global using Microsoft.Extensions.Configuration.Json;
+global using Microsoft.AspNetCore.Builder;
+global using System.Runtime.Loader;
+global using Microsoft.Extensions.DependencyModel;
+global using Serilog;
+global using Thinker.Net.Common.Core;
+global using Thinker.Net.Common.Options;

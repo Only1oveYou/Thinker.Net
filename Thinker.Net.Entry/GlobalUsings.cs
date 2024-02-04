@@ -1,0 +1,15 @@
+﻿global using Autofac;
+global using SqlSugar;
+global using System.Reflection;
+global using Thinker.Net.IService;
+global using Thinker.Net.Extensions;
+global using Thinker.Net.Common.Core;
+global using Microsoft.AspNetCore.Mvc;
+global using Thinker.Net.Common.utils;
+global using Thinker.Net.Model.Entity;
+global using Thinker.Net.Common.Options;
+global using Thinker.Net.Model.Dto.User;
+global using Thinker.Net.Extensions.Swagger;
+global using Thinker.Net.Extensions.Sqlsugar;
+global using Autofac.Extensions.DependencyInjection;
+global using Microsoft.Extensions.DependencyInjection;
